@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Shader Tool Box'
+theme = 'hugo-book'
+[markup.goldmark.renderer]
+  unsafe = true
+[imaging]
+  bgColor = '#000'
